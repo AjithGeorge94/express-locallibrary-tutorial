@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/02003e29-7de4-4448-8f43-9a81faceecaa/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/entrovioexpapiv1",
+    "appService.deploySubpath": ""
+}
